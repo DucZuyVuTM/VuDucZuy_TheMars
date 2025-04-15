@@ -1,0 +1,57 @@
+body {
+    background: linear-gradient(90deg, #25ff58, #2575fc, #8e26fe, #fe2525);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #ffd700;
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+p {
+    color: yellow;
+    margin-bottom: 20px;
+}
+
+.collection {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flag-div {
+    width: 500px;
+    max-height: 410.343px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 32px;
+    margin: 10px auto;
+}
+
+.flag {
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+.emblem-div {
+    width: 500px;
+    max-height: 410.343px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 32px;
+    margin: 10px auto;
+}
+
+.emblem {
+    width: 100%;
+    max-width: 333.343px;
+    margin-bottom: 18px;
+}
